@@ -1,0 +1,7 @@
+"name","email","country_code","phone","status","profile_image_id","created_at"
+"Jack Doe","jack.customer@gmail.com","1","156963090","1","","2023-09-23 02:55:19"
+"John Doe","john.customer@example.com","1","5551855359","1","","2023-09-29 03:20:05"
+"Rome Doe","rome.customer@example.com","1","5571875359","1","","2023-09-29 03:38:29"
+"Sarah Davis","sarah.customer@example.com","1","5551885359","1","","2023-09-29 03:43:13"
+"Jessica Miller","jessica.customer@example.com","1","5551895359","1","","2023-09-29 03:44:19"
+"Kevin Wilson","kevin.customer@example.com","1","5551905360","1","","2023-09-29 03:45:30"

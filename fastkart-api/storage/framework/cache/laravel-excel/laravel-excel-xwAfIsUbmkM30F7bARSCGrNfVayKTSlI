@@ -1,0 +1,46 @@
+name,description,short_description,type,unit,price,sale_price,stock_status,tags,weight,quantity,sku,meta_title,meta_description,shipping_days,is_approved,is_trending,is_free_shipping,is_random_related_products,discount,show_stock_quantity,is_featured,safe_checkout,secure_checkout,social_share,encourage_order,encourage_view,is_cod,is_return,is_free_shipping,is_changeable,is_sale_enable,sale_expired_at,sale_starts_at,estimated_delivery_text,return_policy_text,status,visible_time,product_thumbnail_url,product_meta_image_url,size_chart_image_url,variations
+PRODUCT VAROATION 5,sfsdfjsdhfsdjkhfsdjkfhsdjkhfjksdhfskhfsdjkfhsdjkhfskfs,fsdfsdfsdfsdf,classified,piece,54,,in_stock,,41,12,PRODCUT VARIONAT IO 5,,,5,1,0,0,0,90,1,0,0,1,1,,1,1,1,1,1,1,,,,,1,,,,,"[
+        {
+            ""name"": ""Qussso magnam sequi mag"",
+            ""price"": 91,
+            ""quantity"": 16,
+            ""sku"": ""fasdssadasdadajop "",
+            ""variation_image_id"": 2,
+            ""sale_price"": 98,
+            ""discount"": 2,
+            ""stock_status"": ""in_stock"",
+            ""status"": ""1"",
+            ""attribute_values"": [
+                1
+            ]
+        },
+        {
+            ""name"": ""Enssim sapiente ipsum "",
+            ""price"": 92,
+            ""quantity"": 66,
+            ""sku"": ""fasjdasdasdaasdiopn"",
+            ""variation_image_id"": 2,
+            ""sale_price"": 80,
+            ""discount"": 32,
+            ""stock_status"": ""in_stock"",
+            ""status"": ""1"",
+            ""attribute_values"": [
+                1
+            ]
+        },
+        {
+            ""name"": ""Voluptas beatae repe"",
+            ""price"": 39,
+            ""quantity"": 28,
+            ""sku"": ""fasjasdasdasodasdps"",
+            ""variation_image_id"": 3,
+            ""sale_price"": 74,
+            ""discount"": 82,
+            ""stock_status"": ""in_stock"",
+            ""status"": ""1"",
+            ""attribute_values"": [
+                2,
+                1
+            ]
+        }
+    ]"
