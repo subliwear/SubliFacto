@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(MainLayout)/dashboard/page": "app/(MainLayout)/dashboard/page.js",
+  "/(MainLayout)/product/page": "app/(MainLayout)/product/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(AuthLayout)/auth/login/page": "app/(AuthLayout)/auth/login/page.js"
+}
