@@ -5,7 +5,7 @@ node_modules/
 .next/
 
 # Laravel vendor folder
-/vendor/
+vendor/
 
 # Logs
 logs/
