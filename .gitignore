@@ -4,6 +4,9 @@ node_modules/
 # Next.js build output
 .next/
 
+# Laravel vendor folder
+/vendor/
+
 # Logs
 logs/
 *.log
